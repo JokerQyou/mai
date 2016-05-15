@@ -1,0 +1,3 @@
+-r prod.txt
+flask-script
+Flask-Migrate
