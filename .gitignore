@@ -62,4 +62,7 @@ target/
 .ipynb_checkpoints
 
 # SQLite database files
-# *.sqlite
+*.sqlite
+
+# Mac
+.DS_Store
